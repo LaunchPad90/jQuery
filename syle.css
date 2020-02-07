@@ -1,0 +1,43 @@
+/* 
+font-family: 'Poiret One', cursive;
+font-family: 'Taviraj', serif; */ 
+input {
+    background-color: white;
+    border: 3px solid #93c47d;
+    padding: 5px;
+    color: white;
+    text-align: left;
+    width: 300px;
+}
+#box {
+    display: grid;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    grid-template-rows: 1fr;
+    margin-top: 200px;
+}
+.delete {
+    background-color: #e06666;
+    color: white;
+    font-size: 12px;
+    width: 28px;
+    text-align: center;
+    border: none;
+}
+h1 {
+    background-color: #93c47d;
+    font-family: 'Taviraj', serif;
+    color: white;
+    font-size: 25px;
+}
+p {
+    font-family: 'Roboto Slab', serif;
+    color: #f5be5d;
+    text-align: left;
+}
+button {
+    border: 3px solid #93c47d;
+    padding: 5px;
+    color: #93c47d;
+}
